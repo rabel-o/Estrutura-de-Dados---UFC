@@ -1,0 +1,3 @@
+adicao: reponsável por adicionar duas matrizes
+multiplicacao: reponsável por multiplicar duas matrizes
+sair: encerra a execução
